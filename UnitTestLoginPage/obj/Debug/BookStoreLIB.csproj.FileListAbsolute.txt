@@ -1,0 +1,135 @@
+C:\Users\vlad\source\repos\VRLoginPage\UnitTestLoginPage\obj\Debug\BookStoreLIB.csproj.AssemblyReference.cache
+C:\Users\vlad\source\repos\VRLoginPage\UnitTestLoginPage\obj\Debug\BookStoreLIB.csproj.CoreCompileInputs.cache
+C:\Users\vlad\source\repos\VRLoginPage\UnitTestLoginPage\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\vlad\source\repos\VRLoginPage\UnitTestLoginPage\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\vlad\source\repos\VRLoginPage\UnitTestLoginPage\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\vlad\source\repos\VRLoginPage\UnitTestLoginPage\bin\Debug\BookStoreLIB.dll.config
+C:\Users\vlad\source\repos\VRLoginPage\UnitTestLoginPage\bin\Debug\BookStoreLIB.dll
+C:\Users\vlad\source\repos\VRLoginPage\UnitTestLoginPage\bin\Debug\BookStoreLIB.pdb
+C:\Users\vlad\source\repos\VRLoginPage\UnitTestLoginPage\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\vlad\source\repos\VRLoginPage\UnitTestLoginPage\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\vlad\source\repos\VRLoginPage\UnitTestLoginPage\bin\Debug\System.Data.SqlClient.dll
+C:\Users\vlad\source\repos\VRLoginPage\UnitTestLoginPage\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\vlad\source\repos\VRLoginPage\UnitTestLoginPage\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\vlad\source\repos\VRLoginPage\UnitTestLoginPage\bin\Debug\System.Data.SqlClient.xml
+C:\Users\vlad\source\repos\VRLoginPage\UnitTestLoginPage\obj\Debug\BookStoreLIB.csproj.CopyComplete
+C:\Users\vlad\source\repos\VRLoginPage\UnitTestLoginPage\obj\Debug\BookStoreLIB.dll
+C:\Users\vlad\source\repos\VRLoginPage\UnitTestLoginPage\obj\Debug\BookStoreLIB.pdb
+C:\Users\vlad\source\repos\F21BookStore\UnitTestLoginPage\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\vlad\source\repos\F21BookStore\UnitTestLoginPage\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\vlad\source\repos\F21BookStore\UnitTestLoginPage\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\vlad\source\repos\F21BookStore\UnitTestLoginPage\bin\Debug\BookStoreLIB.dll.config
+C:\Users\vlad\source\repos\F21BookStore\UnitTestLoginPage\bin\Debug\BookStoreLIB.dll
+C:\Users\vlad\source\repos\F21BookStore\UnitTestLoginPage\bin\Debug\BookStoreLIB.pdb
+C:\Users\vlad\source\repos\F21BookStore\UnitTestLoginPage\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\vlad\source\repos\F21BookStore\UnitTestLoginPage\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\vlad\source\repos\F21BookStore\UnitTestLoginPage\bin\Debug\System.Data.SqlClient.dll
+C:\Users\vlad\source\repos\F21BookStore\UnitTestLoginPage\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\vlad\source\repos\F21BookStore\UnitTestLoginPage\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\vlad\source\repos\F21BookStore\UnitTestLoginPage\bin\Debug\System.Data.SqlClient.xml
+C:\Users\vlad\source\repos\F21BookStore\UnitTestLoginPage\obj\Debug\BookStoreLIB.csproj.CoreCompileInputs.cache
+C:\Users\vlad\source\repos\F21BookStore\UnitTestLoginPage\obj\Debug\BookStoreLIB.csproj.CopyComplete
+C:\Users\vlad\source\repos\F21BookStore\UnitTestLoginPage\obj\Debug\BookStoreLIB.dll
+C:\Users\vlad\source\repos\F21BookStore\UnitTestLoginPage\obj\Debug\BookStoreLIB.pdb
+C:\Users\vlad\source\repos\F21BookStore\UnitTestLoginPage\obj\Debug\BookStoreLIB.csproj.AssemblyReference.cache
+C:\Users\Tomek\Desktop\F21BookStore\UnitTestLoginPage\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Tomek\Desktop\F21BookStore\UnitTestLoginPage\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Tomek\Desktop\F21BookStore\UnitTestLoginPage\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Tomek\Desktop\F21BookStore\UnitTestLoginPage\bin\Debug\BookStoreLIB.dll.config
+C:\Users\Tomek\Desktop\F21BookStore\UnitTestLoginPage\bin\Debug\BookStoreLIB.dll
+C:\Users\Tomek\Desktop\F21BookStore\UnitTestLoginPage\bin\Debug\BookStoreLIB.pdb
+C:\Users\Tomek\Desktop\F21BookStore\UnitTestLoginPage\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Tomek\Desktop\F21BookStore\UnitTestLoginPage\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Tomek\Desktop\F21BookStore\UnitTestLoginPage\bin\Debug\System.Data.SqlClient.dll
+C:\Users\Tomek\Desktop\F21BookStore\UnitTestLoginPage\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Tomek\Desktop\F21BookStore\UnitTestLoginPage\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Tomek\Desktop\F21BookStore\UnitTestLoginPage\bin\Debug\System.Data.SqlClient.xml
+C:\Users\Tomek\Desktop\F21BookStore\UnitTestLoginPage\obj\Debug\BookStoreLIB.csproj.AssemblyReference.cache
+C:\Users\Tomek\Desktop\F21BookStore\UnitTestLoginPage\obj\Debug\BookStoreLIB.csproj.CoreCompileInputs.cache
+C:\Users\Tomek\Desktop\F21BookStore\UnitTestLoginPage\obj\Debug\BookStoreLIB.csproj.CopyComplete
+C:\Users\Tomek\Desktop\F21BookStore\UnitTestLoginPage\obj\Debug\BookStoreLIB.dll
+C:\Users\Tomek\Desktop\F21BookStore\UnitTestLoginPage\obj\Debug\BookStoreLIB.pdb
+C:\Users\kevin\source\repos\AgileF21B1\UnitTestLoginPage\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\kevin\source\repos\AgileF21B1\UnitTestLoginPage\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\kevin\source\repos\AgileF21B1\UnitTestLoginPage\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\kevin\source\repos\AgileF21B1\UnitTestLoginPage\bin\Debug\BookStoreLIB.dll.config
+C:\Users\kevin\source\repos\AgileF21B1\UnitTestLoginPage\bin\Debug\BookStoreLIB.dll
+C:\Users\kevin\source\repos\AgileF21B1\UnitTestLoginPage\bin\Debug\BookStoreLIB.pdb
+C:\Users\kevin\source\repos\AgileF21B1\UnitTestLoginPage\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\kevin\source\repos\AgileF21B1\UnitTestLoginPage\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\kevin\source\repos\AgileF21B1\UnitTestLoginPage\bin\Debug\System.Data.SqlClient.dll
+C:\Users\kevin\source\repos\AgileF21B1\UnitTestLoginPage\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\kevin\source\repos\AgileF21B1\UnitTestLoginPage\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\kevin\source\repos\AgileF21B1\UnitTestLoginPage\bin\Debug\System.Data.SqlClient.xml
+C:\Users\kevin\source\repos\AgileF21B1\UnitTestLoginPage\obj\Debug\BookStoreLIB.csproj.AssemblyReference.cache
+C:\Users\kevin\source\repos\AgileF21B1\UnitTestLoginPage\obj\Debug\BookStoreLIB.csproj.CoreCompileInputs.cache
+C:\Users\kevin\source\repos\AgileF21B1\UnitTestLoginPage\obj\Debug\BookStoreLIB.csproj.CopyComplete
+C:\Users\kevin\source\repos\AgileF21B1\UnitTestLoginPage\obj\Debug\BookStoreLIB.dll
+C:\Users\kevin\source\repos\AgileF21B1\UnitTestLoginPage\obj\Debug\BookStoreLIB.pdb
+D:\4220Project\AgileF21B1\UnitTestLoginPage\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\4220Project\AgileF21B1\UnitTestLoginPage\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\4220Project\AgileF21B1\UnitTestLoginPage\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\4220Project\AgileF21B1\UnitTestLoginPage\bin\Debug\BookStoreLIB.dll.config
+D:\4220Project\AgileF21B1\UnitTestLoginPage\bin\Debug\BookStoreLIB.dll
+D:\4220Project\AgileF21B1\UnitTestLoginPage\bin\Debug\BookStoreLIB.pdb
+D:\4220Project\AgileF21B1\UnitTestLoginPage\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\4220Project\AgileF21B1\UnitTestLoginPage\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\4220Project\AgileF21B1\UnitTestLoginPage\bin\Debug\System.Data.SqlClient.dll
+D:\4220Project\AgileF21B1\UnitTestLoginPage\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\4220Project\AgileF21B1\UnitTestLoginPage\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\4220Project\AgileF21B1\UnitTestLoginPage\bin\Debug\System.Data.SqlClient.xml
+D:\4220Project\AgileF21B1\UnitTestLoginPage\obj\Debug\BookStoreLIB.csproj.AssemblyReference.cache
+D:\4220Project\AgileF21B1\UnitTestLoginPage\obj\Debug\BookStoreLIB.csproj.CoreCompileInputs.cache
+D:\4220Project\AgileF21B1\UnitTestLoginPage\obj\Debug\BookStoreLIB.csproj.CopyComplete
+D:\4220Project\AgileF21B1\UnitTestLoginPage\obj\Debug\BookStoreLIB.dll
+D:\4220Project\AgileF21B1\UnitTestLoginPage\obj\Debug\BookStoreLIB.pdb
+C:\Users\meeru\OneDrive\Desktop\AgileF21B1\UnitTestLoginPage\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\meeru\OneDrive\Desktop\AgileF21B1\UnitTestLoginPage\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\meeru\OneDrive\Desktop\AgileF21B1\UnitTestLoginPage\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\meeru\OneDrive\Desktop\AgileF21B1\UnitTestLoginPage\bin\Debug\BookStoreLIB.dll.config
+C:\Users\meeru\OneDrive\Desktop\AgileF21B1\UnitTestLoginPage\bin\Debug\BookStoreLIB.dll
+C:\Users\meeru\OneDrive\Desktop\AgileF21B1\UnitTestLoginPage\bin\Debug\BookStoreLIB.pdb
+C:\Users\meeru\OneDrive\Desktop\AgileF21B1\UnitTestLoginPage\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\meeru\OneDrive\Desktop\AgileF21B1\UnitTestLoginPage\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\meeru\OneDrive\Desktop\AgileF21B1\UnitTestLoginPage\bin\Debug\System.Data.SqlClient.dll
+C:\Users\meeru\OneDrive\Desktop\AgileF21B1\UnitTestLoginPage\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\meeru\OneDrive\Desktop\AgileF21B1\UnitTestLoginPage\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\meeru\OneDrive\Desktop\AgileF21B1\UnitTestLoginPage\bin\Debug\System.Data.SqlClient.xml
+C:\Users\meeru\OneDrive\Desktop\AgileF21B1\UnitTestLoginPage\obj\Debug\BookStoreLIB.csproj.AssemblyReference.cache
+C:\Users\meeru\OneDrive\Desktop\AgileF21B1\UnitTestLoginPage\obj\Debug\BookStoreLIB.csproj.CoreCompileInputs.cache
+C:\Users\meeru\OneDrive\Desktop\AgileF21B1\UnitTestLoginPage\obj\Debug\BookStoreLIB.csproj.CopyComplete
+C:\Users\meeru\OneDrive\Desktop\AgileF21B1\UnitTestLoginPage\obj\Debug\BookStoreLIB.dll
+C:\Users\meeru\OneDrive\Desktop\AgileF21B1\UnitTestLoginPage\obj\Debug\BookStoreLIB.pdb
+C:\Users\meeru\OneDrive\Desktop\gile proj\UnitTestLoginPage\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\meeru\OneDrive\Desktop\gile proj\UnitTestLoginPage\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\meeru\OneDrive\Desktop\gile proj\UnitTestLoginPage\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\meeru\OneDrive\Desktop\gile proj\UnitTestLoginPage\bin\Debug\BookStoreLIB.dll.config
+C:\Users\meeru\OneDrive\Desktop\gile proj\UnitTestLoginPage\bin\Debug\BookStoreLIB.dll
+C:\Users\meeru\OneDrive\Desktop\gile proj\UnitTestLoginPage\bin\Debug\BookStoreLIB.pdb
+C:\Users\meeru\OneDrive\Desktop\gile proj\UnitTestLoginPage\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\meeru\OneDrive\Desktop\gile proj\UnitTestLoginPage\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\meeru\OneDrive\Desktop\gile proj\UnitTestLoginPage\bin\Debug\System.Data.SqlClient.dll
+C:\Users\meeru\OneDrive\Desktop\gile proj\UnitTestLoginPage\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\meeru\OneDrive\Desktop\gile proj\UnitTestLoginPage\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\meeru\OneDrive\Desktop\gile proj\UnitTestLoginPage\bin\Debug\System.Data.SqlClient.xml
+C:\Users\meeru\OneDrive\Desktop\gile proj\UnitTestLoginPage\obj\Debug\BookStoreLIB.csproj.AssemblyReference.cache
+C:\Users\meeru\OneDrive\Desktop\gile proj\UnitTestLoginPage\obj\Debug\BookStoreLIB.csproj.CoreCompileInputs.cache
+C:\Users\meeru\OneDrive\Desktop\gile proj\UnitTestLoginPage\obj\Debug\BookStoreLIB.dll
+C:\Users\meeru\OneDrive\Desktop\gile proj\UnitTestLoginPage\obj\Debug\BookStoreLIB.pdb
+C:\Users\vlad\Source\Workspaces\AgileF21B1\UnitTestLoginPage\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\vlad\Source\Workspaces\AgileF21B1\UnitTestLoginPage\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\vlad\Source\Workspaces\AgileF21B1\UnitTestLoginPage\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\vlad\Source\Workspaces\AgileF21B1\UnitTestLoginPage\bin\Debug\BookStoreLIB.dll.config
+C:\Users\vlad\Source\Workspaces\AgileF21B1\UnitTestLoginPage\bin\Debug\BookStoreLIB.dll
+C:\Users\vlad\Source\Workspaces\AgileF21B1\UnitTestLoginPage\bin\Debug\BookStoreLIB.pdb
+C:\Users\vlad\Source\Workspaces\AgileF21B1\UnitTestLoginPage\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\vlad\Source\Workspaces\AgileF21B1\UnitTestLoginPage\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\vlad\Source\Workspaces\AgileF21B1\UnitTestLoginPage\bin\Debug\System.Data.SqlClient.dll
+C:\Users\vlad\Source\Workspaces\AgileF21B1\UnitTestLoginPage\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\vlad\Source\Workspaces\AgileF21B1\UnitTestLoginPage\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\vlad\Source\Workspaces\AgileF21B1\UnitTestLoginPage\bin\Debug\System.Data.SqlClient.xml
+C:\Users\vlad\Source\Workspaces\AgileF21B1\UnitTestLoginPage\obj\Debug\BookStoreLIB.csproj.AssemblyReference.cache
+C:\Users\vlad\Source\Workspaces\AgileF21B1\UnitTestLoginPage\obj\Debug\BookStoreLIB.csproj.CoreCompileInputs.cache
+C:\Users\vlad\Source\Workspaces\AgileF21B1\UnitTestLoginPage\obj\Debug\BookStoreLIB.csproj.CopyComplete
+C:\Users\vlad\Source\Workspaces\AgileF21B1\UnitTestLoginPage\obj\Debug\BookStoreLIB.dll
+C:\Users\vlad\Source\Workspaces\AgileF21B1\UnitTestLoginPage\obj\Debug\BookStoreLIB.pdb

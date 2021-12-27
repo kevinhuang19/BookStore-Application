@@ -1,0 +1,92 @@
+﻿<Window x:Class="BookStoreGUI.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        WindowStyle="None"
+        ResizeMode="NoResize"
+        Background="Transparent"
+        AllowsTransparency="True"
+        Title="F21's BookStore" Height="500" Width="920" Loaded="Window_Loaded">
+
+    <Border Background="#272537"
+            CornerRadius="20">
+
+        <Grid Margin="0,0,0,-8">
+            <StatusBar VerticalAlignment="Bottom" HorizontalAlignment="Stretch" Margin="43,0,45,33" Background="White" Height="24">
+                <TextBlock x:Name="statusTextBlock" ><Run Text="Please login before proceeding to checkout."/></TextBlock>
+            </StatusBar>
+            <TextBlock Text="F21BookStore" VerticalAlignment="Center" HorizontalAlignment="Right" Foreground="White" FontSize="22" Margin="0,38,123,441"/>
+            <StackPanel x:Name="LayoutRoot" DataContext="{Binding}" Orientation="Vertical" HorizontalAlignment="Left" Height="auto" Width="532" Margin="4,-1,0,1">
+                <StackPanel Orientation="Horizontal" HorizontalAlignment="right">
+                    <Label Foreground="white" Content="Categories:" Margin="18,0,0,0"/>
+                    <ComboBox ItemsSource="{Binding}" x:Name="categoriesComboBox"
+		    IsSynchronizedWithCurrentItem="True"
+		    DisplayMemberPath="Name" Height="23" Margin="12" Width="200" >
+                        <ComboBox.ItemsPanel>
+                            <ItemsPanelTemplate>
+                                <VirtualizingStackPanel />
+                            </ItemsPanelTemplate>
+                        </ComboBox.ItemsPanel>
+                    </ComboBox>
+                </StackPanel>
+                <DataGrid AutoGenerateColumns="False" Height="165" 
+		ItemsSource="{Binding drCat_Book}"
+		x:Name="ProductsDataGrid" RowDetailsVisibilityMode="VisibleWhenSelected"
+		Width="490" HorizontalAlignment="Left" Margin="20,0,20,10"
+		SelectionMode="Single" Background="#635F7D" >
+                    <DataGrid.Columns>
+                        <DataGridTextColumn 
+			x:Name="titleColumn" Binding="{Binding Title}"
+			Header="Title" Width="50*" />
+                        <DataGridTextColumn
+			x:Name="authorColumn" Binding="{Binding Author}"
+			Header="Author" Width="18*" />
+                        <DataGridTextColumn
+			x:Name="priceColumn" Binding="{Binding Price}"
+			Header="Price" Width="12*" CanUserSort="False" />
+                        <DataGridTextColumn
+			x:Name="yearColumn" Binding="{Binding Year}"
+			Header="Year" Width="8*" />
+                    </DataGrid.Columns>
+                </DataGrid>
+                <StackPanel Orientation="Vertical">
+                    <ListView x:Name="orderListView" MinHeight="150" Width="490"
+		    ItemsSource="{Binding}" SelectionMode="Single" Background="#635F7D" Foreground="White" >
+                        <ListView.View>
+                            <GridView>
+                                <GridViewColumn Width="80" Header="ISBN" 
+				DisplayMemberBinding="{Binding BookID}"/>
+                                <GridViewColumn Width="285" Header="Title"
+				DisplayMemberBinding="{Binding BookTitle}" />
+                                <GridViewColumn Width="60" Header="Quantity"
+				DisplayMemberBinding="{Binding Quantity}" />
+                                <GridViewColumn Width="60" Header="Subtotal"
+				DisplayMemberBinding="{Binding SubTotal}" />
+                            </GridView>
+                        </ListView.View>
+                    </ListView>
+                </StackPanel>
+                <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" Margin="10, 10, 10, 10" Height="29" Width="512" RenderTransformOrigin="0.498,-0.073">
+                    <StackPanel.RenderTransform>
+                        <TransformGroup>
+                            <ScaleTransform/>
+                            <SkewTransform/>
+                            <RotateTransform/>
+                            <TranslateTransform Y="-6"/>
+                        </TransformGroup>
+                    </StackPanel.RenderTransform>
+
+                    <Button x:Name="addButton" MinHeight="25" MinWidth="80" Content="Add Book" Click="addButton_Click"/>
+                    <Button x:Name="removeButton" MinHeight="25" MinWidth="80" Content="Remove Book" Click="removeButton_Click" Margin="10,0,0,0" />
+                    <Button x:Name="calculateBtn" Content="Calculate Total" MinHeight="25" MinWidth="80"  Margin="20,0,0,0" Click="calculateBtn_Click"/>
+                    <Label Content="Total " Margin="20,0,0,0" Foreground="White"/>
+                    <TextBox x:Name="txtTotal" Height="22" TextWrapping="Wrap" Text="0" Width="59" Background="DimGray" Foreground="White" SelectionOpacity="0"/>
+                    <Button x:Name="checkoutOrderButton" MinHeight="25" MinWidth="80" Content="Proceed to Checkout" Click="chechoutButton_Click" Width="121" Margin="0,0,0,0"/>
+                </StackPanel>
+            </StackPanel>
+            <Button Content="Login" x:Name="loginButton" Margin="674,179,93,280" Click="loginButton_Click" Style="{StaticResource round}" MouseEnter="loginButton_MouseEnter" MouseLeave="loginButton_MouseLeave" />
+            <Button Content="Exit" x:Name="exitButton" Margin="674,364,93,97" Click="exitButton_Click" Style="{StaticResource round}" MouseEnter="exitButton_MouseEnter" MouseLeave="exitButton_MouseLeave"/>
+            <Button x:Name="myAccount" MinHeight="25" MinWidth="80" Content="My Account" Click="accountButton_Click"  Margin="671,95,93,358" Style="{StaticResource round}" MouseEnter="myAccount_MouseEnter" MouseLeave="myAccount_MouseLeave"/>
+            <Button x:Name="myADmin" MinHeight="25" MinWidth="80" Content="Admin" Click="admintButton_Click"  Margin="674,260,93,200"  Style="{StaticResource round}" MouseEnter="myADmin_MouseEnter" MouseLeave="myADmin_MouseLeave" />
+        </Grid>
+    </Border>
+</Window>

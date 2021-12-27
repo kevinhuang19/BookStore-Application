@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="AgileDB21B1Model.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <!--Errors Found During Generation:
+warning 6013: The table/view 'AgileDB21B1.db_owner.CreditCardMethods' does not have a primary key defined and no valid primary key could be inferred. This table/view has been excluded. To use the entity, you will need to review your schema, add the correct keys, and uncomment it.
+        <EntityType Name="CreditCardMethods">
+          <Property Name="UserId" Type="int" />
+          <Property Name="CardNumber" Type="varchar" MaxLength="50" />
+          <Property Name="CVC" Type="varchar" MaxLength="50" />
+          <Property Name="ExpiryDate" Type="varchar" MaxLength="50" />
+        </EntityType>-->
+  <!--Errors Found During Generation:
+warning 6013: The table/view 'AgileDB21B1.db_owner.PaypalMethods' does not have a primary key defined and no valid primary key could be inferred. This table/view has been excluded. To use the entity, you will need to review your schema, add the correct keys, and uncomment it.
+        <EntityType Name="PaypalMethods">
+          <Property Name="UserId" Type="int" />
+          <Property Name="EmailAddress" Type="varchar" MaxLength="50" />
+          <Property Name="Passwrd" Type="varchar" MaxLength="50" />
+        </EntityType>-->
+  <EntityContainer Name="AgileDB21B1ModelStoreContainer" />
+</Schema>
